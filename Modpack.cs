@@ -72,7 +72,7 @@ namespace VirixUpdater
             string str = string.Empty;
             using (WebClient wc = new WebClient())
             {
-                byte[] raw = wc.DownloadData("https://raw.githubusercontent.com/oinkratpig/Virix-Modpack/master/virix_mods.csv");
+                byte[] raw = wc.DownloadData("https://raw.githubusercontent.com/oinkratpig/VirixUpdater/master/Mods/virix_mods.csv");
                 str = Encoding.Default.GetString(raw);
             }
             _modFileNames = str.Split(',');
@@ -131,7 +131,7 @@ namespace VirixUpdater
             {
                 //formInstalling.InstallingTextBox.AppendText($"{newline}Downloading \"{mod}");
                 formInstalling.InstallingTextBox.Text += $"{newline}Downloading \"{mod}";
-                DownloadFile(wc, "https://raw.githubusercontent.com/oinkratpig/Virix-Modpack/master/" + mod, Path.Join(ModsFolder, mod));
+                DownloadFile(wc, "https://raw.githubusercontent.com/oinkratpig/VirixUpdater/master/Mods/" + mod, Path.Join(ModsFolder, mod));
             }
             // Select
             int position = formInstalling.InstallingTextBox.GetFirstCharIndexFromLine(_currentModIndex);
@@ -208,7 +208,7 @@ namespace VirixUpdater
                 string str = string.Empty;
                 using (WebClient wc = new WebClient())
                 {
-                    byte[] raw = wc.DownloadData("https://raw.githubusercontent.com/oinkratpig/Virix-Modpack/master/virix_version.txt");
+                    byte[] raw = wc.DownloadData("https://raw.githubusercontent.com/oinkratpig/VirixUpdater/master/Mods/virix_version.txt");
                     str = Encoding.Default.GetString(raw);
                 }
                 return str;
