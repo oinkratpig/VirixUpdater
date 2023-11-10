@@ -75,6 +75,7 @@
             Font = new Font("Roboto", 9F, FontStyle.Regular, GraphicsUnit.Point);
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Margin = new Padding(4, 3, 4, 3);
+            MaximizeBox = false;
             Name = "FormInstalling";
             Text = "Updating Modpack";
             ResumeLayout(false);

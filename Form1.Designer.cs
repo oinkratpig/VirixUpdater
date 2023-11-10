@@ -172,6 +172,7 @@
             Controls.Add(label2);
             Controls.Add(pictureBox1);
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            MaximizeBox = false;
             Name = "Form1";
             Text = "Virix Modpack Updater";
             Load += Form1_Load;

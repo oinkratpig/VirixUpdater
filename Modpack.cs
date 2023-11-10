@@ -79,6 +79,11 @@ namespace VirixUpdater
             // Remove extra element at end because of trailing comma
             _modFileNames = _modFileNames.Take(_modFileNames.Count() - 1).ToArray();
 
+            // Remove all mods not in the mod list
+            foreach(string filePath in Directory.GetFiles(ModsFolder))
+                if(Path.GetExtension(filePath) == ".jar" && !_modFileNames.Contains(Path.GetFileName(filePath)))
+                    File.Delete(filePath);
+
             // Progress bar
             FormInstalling formInstalling = new FormInstalling();
             formInstalling.Show();
