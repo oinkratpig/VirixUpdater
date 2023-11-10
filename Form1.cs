@@ -66,7 +66,11 @@ namespace VirixUpdater
 
             // Update button
             buttonUpdate.Enabled = false;
-            if (Modpack.CurrentVersion != Modpack.LatestVersion)
+            if (string.IsNullOrWhiteSpace(Modpack.ModsFolder) || !Directory.Exists(Modpack.ModsFolder))
+            {
+                _messageState = MessageState.UnknownVersion;
+            }
+            else if (Modpack.CurrentVersion != Modpack.LatestVersion)
             {
                 _messageState = MessageState.UpdateAvailable;
                 buttonUpdate.Enabled = true;
