@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/PLaGB2y.png)
 
-<h3><p align="center">Auto updater for the Virix modpack. (Minecraft 1.20.1 Forge 47.1.3).</p></h3>
+<p align="center">Auto updater for the Virix modpack. (Minecraft 1.20.1 Forge 47.1.3).</p>
 
 <p align="center">
   <img src="https://i.imgur.com/cPur5ZS.png"/>
