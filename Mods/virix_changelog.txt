@@ -1,0 +1,14 @@
+v4.0 -> 5.0
+=============================
+
+Tried installing AutoModpack but game wouldn't launch :(
+If anyone knows an alternative lmk.
+
+Added
+	- (S) Immersive Melodies
+	- (S) Ultris: Boss Expansion
+	- (C) Boat Item View
+	- (C) Chat Animation
+	- (C) Map Tooltip
+	- (C) Show Me What You Got
+	- (C) Trade Uses

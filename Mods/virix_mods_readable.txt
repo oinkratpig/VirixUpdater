@@ -1,0 +1,290 @@
+==============================
+ FORGE
+==============================
+
+Dependencies
+---------------
+(S) Architectury
+	https://modrinth.com/mod/architectury-api
+(S) Balm
+	https://modrinth.com/mod/balm
+(S) bendy-lib
+	https://modrinth.com/mod/bendy-lib
+(S) Caelus API
+	https://modrinth.com/mod/caelus
+(S) Cloth Config
+	https://modrinth.com/mod/cloth-config
+(S) Collective
+	https://modrinth.com/mod/collective
+(S) CreativeCore
+	https://modrinth.com/mod/creativecore
+(S) Curios API
+	https://modrinth.com/mod/curios
+(S) Konkrete
+	https://modrinth.com/mod/konkrete
+(S) Kotlin for Forge
+	https://modrinth.com/mod/kotlin-for-forge
+(S) playerAnimator
+	https://modrinth.com/mod/playeranimator
+(S) Puzzles Lib
+	https://modrinth.com/mod/puzzles-lib
+(S) Searchables
+	https://modrinth.com/mod/searchables
+(S) supermartijn642configlib
+	https://modrinth.com/mod/supermartijn642s-config-lib
+(S) supermartijn642corelib
+	https://modrinth.com/mod/supermartijn642s-core-lib
+(C) MidnightLib
+	https://modrinth.com/mod/midnightlib
+
+Performance
+---------------
+(S) FerriteCore
+	https://modrinth.com/mod/ferrite-core
+(S) ModernFix
+	https://modrinth.com/mod/modernfix
+(C) Cull Leaves
+	https://modrinth.com/mod/cull-leaves
+(C) Embeddium
+	https://modrinth.com/mod/embeddium
+(C) Entity Culling
+	https://modrinth.com/mod/entityculling
+(C) Fastload
+	https://modrinth.com/mod/fastload
+(C) ImmediatelyFast
+	https://modrinth.com/mod/immediatelyfast
+(C) Memory Leak Fix
+	https://modrinth.com/mod/memoryleakfix
+
+Gameplay
+---------------
+(S) Adorn
+	https://modrinth.com/mod/adorn
+(S) Advancement Count
+	https://modrinth.com/datapack/advancement-count
+(S) Artifacts
+	https://modrinth.com/mod/artifacts
+(S) Better Combat
+	https://modrinth.com/mod/better-combat
+(S) CC: Tweaked
+	https://modrinth.com/mod/cc-tweaked
+(S) Combat Roll
+	https://modrinth.com/mod/combat-roll
+(S) Comforts
+	https://modrinth.com/mod/comforts
+(S) Construction Wand
+	https://www.curseforge.com/minecraft/mc-mods/construction-wand
+(S) Dungeons and Taverns
+	https://modrinth.com/datapack/dungeons-and-taverns
+(S) Create
+	https://modrinth.com/mod/create
+(S) Create Crafts and Additions
+	https://modrinth.com/mod/createaddition
+(S) Creeper no Break Blocks
+	https://modrinth.com/mod/creeper-no-break-blocks
+(S) Easy Anvils
+	https://modrinth.com/mod/easy-anvils
+(S) Easy Magic
+	https://modrinth.com/mod/easy-magic
+(S) Elytra Slot
+	https://modrinth.com/mod/elytra-slot
+(S) Farmer's Delight
+	https://modrinth.com/mod/farmers-delight
+(S) Fishermen's Trap
+	https://modrinth.com/mod/fishermens-trap
+(S) Forgiving Void
+	https://modrinth.com/mod/forgiving-void
+(S) GraveStone Mod
+	https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
+(S) Immersive Melodies
+	https://modrinth.com/mod/immersive-melodies
+(S) Infinity With Mending
+	https://modrinth.com/mod/infinity-with-mending
+(S) Lightman's Currency
+	https://www.curseforge.com/minecraft/mc-mods/lightmans-currency
+(S) Nature's Compass
+	https://modrinth.com/mod/natures-compass
+(S) Open Parties and Claims
+	https://modrinth.com/mod/open-parties-and-claims
+(S) Plushie-Mod
+	https://modrinth.com/mod/plushie
+(S) Rex's Additional Structures
+	https://modrinth.com/mod/additional-structures
+(S) Tom's Simple Storage
+	https://modrinth.com/mod/toms-storage
+(S) Transmog
+	https://modrinth.com/mod/transmog
+(S) Trash Cans
+	https://modrinth.com/mod/trash-cans
+(S) Traveler's Backpack
+	https://modrinth.com/mod/travelersbackpack
+(S) Ultris: Boss Expansion
+	https://modrinth.com/datapack/ultris/version/5.6.9b+mod
+(S) Vivecraft
+	https://modrinth.com/mod/vivecraft
+(S) Simple Voice Chat
+	https://modrinth.com/plugin/simple-voice-chat/versions
+(S) Stack Refill
+	https://modrinth.com/mod/stack-refill
+(S) Waystones
+	https://modrinth.com/mod/waystones
+(S) Joy of Painting
+	https://modrinth.com/mod/joy-of-painting
+(S) Just Another Structure Pack
+	https://modrinth.com/datapack/just-another-structure-pack
+(C) Reacharound
+	https://modrinth.com/mod/reacharound
+
+Quality of Life
+---------------
+(S) AutoModpack
+	https://modrinth.com/mod/automodpack
+(S) FallingTree
+	https://modrinth.com/mod/fallingtree
+(S) Grass Seeds
+	https://modrinth.com/mod/grass-seeds
+(S) JourneyMap
+	https://modrinth.com/mod/journeymap
+(S) Polymorph
+	https://modrinth.com/mod/polymorph
+(S) RightClickHarvest
+	https://modrinth.com/mod/rightclickharvest
+(S) Superflat World No Slimes
+	https://modrinth.com/mod/superflat-world-no-slimes
+(S) Visual Workbench
+	https://modrinth.com/mod/visual-workbench
+(C) Boat Item View
+	https://modrinth.com/mod/boat-item-view
+(C) Controlling
+	https://modrinth.com/mod/controlling
+(C) EMI
+	https://modrinth.com/mod/emi
+(C) EMI Trades
+	https://modrinth.com/mod/emitrades
+(C) Just Zoom
+	https://modrinth.com/mod/just-zoom/version/1.0.2-1.20.1-forge
+(C) Map Tooltip
+	https://modrinth.com/mod/map-tooltip
+(C) Model Gap Fix
+	https://modrinth.com/mod/modelfix
+(C) Notes
+	https://modrinth.com/mod/notes
+(C) Pickup Notifier
+	https://modrinth.com/mod/pick-up-notifier
+(C) Trade Uses
+	https://modrinth.com/mod/trade-uses/versions
+(C) Xaero's Minimap (Fair-Play)
+	https://modrinth.com/mod/xaeros-minimap-fair
+(C) Xaero's World Map
+	https://modrinth.com/mod/xaeros-world-map
+
+Visual
+---------------
+(C) 3D Skin Layers
+	https://modrinth.com/mod/3dskinlayers
+(C) Distant Horizons
+	https://gitlab.com/jeseibel/minecraft-lod-mod
+(C) Falling Leaves
+	https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
+(C) Not Enough Animations
+	https://modrinth.com/mod/not-enough-animations
+(C) Oculus
+	https://modrinth.com/mod/oculus/version/1.20.1-1.6.9
+(C) Tiny Item Animations
+	https://modrinth.com/mod/tiny-item-animations
+(C) You Died
+	https://modrinth.com/mod/you-died
+
+Audio
+---------------
+(C) AmbientSounds
+	https://modrinth.com/mod/ambientsounds
+(C) Extreme Sound Muffler
+	https://modrinth.com/mod/extreme_sound_muffler
+(C) Sound Physics Remastered
+	https://modrinth.com/mod/sound-physics-remastered
+
+
+==============================
+ FABRIC
+==============================
+
+Compatibility
+---------------
+(C) Forgified Fabric API
+	https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api
+(C) Sinytra Connector
+	https://www.curseforge.com/minecraft/mc-mods/sinytra-connector
+
+Dependencies
+---------------
+(C) Yet Another Config Lib
+	https://modrinth.com/mod/yacl
+
+Quality of Life
+---------------
+(C) Block Meter
+	https://modrinth.com/mod/blockmeter
+(C) Borderless Mining
+	https://modrinth.com/mod/borderless-mining
+(C) ClickThrough
+	https://modrinth.com/mod/clickthrough
+(C) Visible Toggle Sprint
+	https://modrinth.com/mod/visible-toggle-sprint
+	
+Visual
+---------------
+(C) Cave Dust
+	https://modrinth.com/mod/cave-dust
+(C) Chat Animation
+	https://modrinth.com/mod/chatanimation
+(C) No Night Vision Flickering
+	https://modrinth.com/mod/no-night-vision-flickering
+(C) NoRecipeBook
+	https://modrinth.com/mod/norecipebook-fabric
+(C) Particle Rain
+	https://modrinth.com/mod/particle-rain
+(C) Show Me What You Got
+	https://modrinth.com/mod/show-me-what-you-got
+(C) Visuality
+	https://modrinth.com/mod/visuality
+(C) Wakes
+	https://modrinth.com/mod/wakes
+
+Audio
+---------------
+(C) Presence Footsteps
+	https://modrinth.com/mod/presence-footsteps
+
+==============================
+ RESOURCE PACKS
+==============================
+
+Load order:
+(Descending - 1 is loaded last)
+(Same order as it should be in the resouce packs screen)
+(1) PickupSound
+	Only contains the pickup sound from Parallax Sounds.
+	https://modrinth.com/resourcepack/parallax-sounds
+	All audio in this resource pack is stereo, meaning it does not work as intended.
+	The pickup sound is too good to do without, though.
+(2) Omori Music Replacement
+	https://www.curseforge.com/minecraft/texture-packs/omori-music-pack
+	Like Parallax Sounds, all audio was mono.
+	There was a small enough amount of audio that converting was reasonable.
+(3) Enhanced Audio
+	https://www.curseforge.com/minecraft/texture-packs/enhanced-audio
+(4) Skyrim Soundpack
+	https://www.planetminecraft.com/texture-pack/soundpack-skyrim-175/
+	Iconic Skyrim sounds take away from immersion so this is loaded before Enhanced Audio.
+	Some of the sounds are so amazing though it's worth occasional immersion breaks.
+(5) JICKLUS
+	https://modrinth.com/resourcepack/jicklus
+
+==============================
+ SHADERS
+==============================
+
+Insanity Shader
+	https://www.curseforge.com/minecraft/shaders/insanity-shader
+	I think fog / moody atmosphere is gorgeous.

@@ -1,5 +1,3 @@
-using Google.Apis.Drive.v3;
-using Google.Apis.Services;
 using System.Net;
 using System.Reflection;
 using System.Text;

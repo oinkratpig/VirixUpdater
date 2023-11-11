@@ -10,12 +10,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="favicon.ico" />
+    <Compile Remove="Mods\**" />
+    <EmbeddedResource Remove="Mods\**" />
+    <None Remove="Mods\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Google.Apis" Version="1.63.0" />
-    <PackageReference Include="Google.Apis.Drive.v3" Version="1.63.0.3155" />
+    <Content Include="favicon.ico" />
   </ItemGroup>
 
   <ItemGroup>
