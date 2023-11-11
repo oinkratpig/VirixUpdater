@@ -1,14 +1,9 @@
-v4.0 -> 5.0
+v5.0 -> 5.1
 =============================
 
-Tried installing AutoModpack but game wouldn't launch :(
-If anyone knows an alternative lmk.
-
 Added
-	- (S) Immersive Melodies
-	- (S) Ultris: Boss Expansion
-	- (C) Boat Item View
-	- (C) Chat Animation
-	- (C) Map Tooltip
-	- (C) Show Me What You Got
-	- (C) Trade Uses
+	- (S) Dynmap
+	- (C) Xaero's Minimap
+
+Removed
+	- Xaero's Minimap (Fair-Play)

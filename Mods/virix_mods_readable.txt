@@ -139,6 +139,8 @@ Quality of Life
 ---------------
 (S) AutoModpack
 	https://modrinth.com/mod/automodpack
+(S) Dynmap
+	https://modrinth.com/plugin/dynmap
 (S) FallingTree
 	https://modrinth.com/mod/fallingtree
 (S) Grass Seeds
