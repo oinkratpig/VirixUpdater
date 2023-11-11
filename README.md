@@ -14,3 +14,7 @@
 4. Enjoy!
 
 NOTE: 47.1.30 is different from 47.1.3. Make sure you install the correct version.
+
+# Disclaimer
+
+I did not create any of the mods in this mod list. This modpack is just a specific combination of other peoples' mods. For a full list of all mods included in this pack, [check here](https://raw.githubusercontent.com/oinkratpig/VirixUpdater/master/Mods/virix_mods_readable.txt).
