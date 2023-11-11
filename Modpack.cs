@@ -43,7 +43,7 @@ namespace VirixUpdater
         // Fields
         public static readonly string defaultVersion = "?.?";
         private static readonly string _saveFile = "modsfolder.txt";
-        private static readonly string _modsFile = "virix_mods.csv";
+        private static readonly string _modsFile = "_virix_mods.csv";
         private static readonly string? _assemblyPath;
         private static string? _modsFolder;
         private static string[] _modFileNames;
