@@ -135,15 +135,6 @@ namespace VirixUpdater
                 formInstalling.InstallingTextBox.Text += $"{newline}Downloading \"{mod}";
                 DownloadFile(wc, "https://raw.githubusercontent.com/oinkratpig/VirixUpdater/master/Mods/" + mod, Path.Join(ModsFolder, mod));
             }
-            // Select
-            int position = formInstalling.InstallingTextBox.GetFirstCharIndexFromLine(_currentModIndex);
-            int lineEnd = formInstalling.InstallingTextBox.Text.IndexOf(Environment.NewLine, position);
-            if (lineEnd < 0)
-            {
-                lineEnd = formInstalling.InstallingTextBox.Text.Length;
-            }
-            formInstalling.InstallingTextBox.Select(position, 1);
-            formInstalling.InstallingTextBox.ScrollToCaret();
             // Progress
             formInstalling.InstallingProgressBar.Value = (int)((++_currentModIndex + 1.0f) / _modFileNames.Length * 100);
 
@@ -184,18 +175,21 @@ namespace VirixUpdater
         } // end SaveModsFolder
 
         /// <summary>
-        /// Saves a file containing all mod filenames
+        /// Saves a file containing all mod filenames.
+        /// Just for Oinky purposes.
         /// </summary>
         public static void OutputModFilenames()
         {
-            string modsRepoFolder = "C:\\Users\\knila\\Desktop\\Mods\\Virix\\mods";
+            string modsRepoFolder = "C:\\Users\\knila\\Desktop\\Dev\\Visual Studio\\VirixUpdater\\Mods";
             if (!Directory.Exists(modsRepoFolder)) return;
 
             using (StreamWriter writer = new StreamWriter(Path.Join(_assemblyPath, _modsFile)))
                 foreach (string filepath in Directory.GetFiles(modsRepoFolder))
                 {
-                    if(Path.GetExtension(filepath) == ".jar")
+                    if (Path.GetExtension(filepath) == ".jar")
+                    {
                         writer.Write(Path.GetFileName(filepath) + ",");
+                    }
                 }
 
         } // end OutputModFilenames
