@@ -12,6 +12,8 @@ Dependencies
 	https://modrinth.com/mod/bendy-lib
 (S) Caelus API
 	https://modrinth.com/mod/caelus
+(S) Citadel
+	https://modrinth.com/mod/citadel
 (S) Cloth Config
 	https://modrinth.com/mod/cloth-config
 (S) Collective
@@ -39,6 +41,8 @@ Dependencies
 
 Performance
 ---------------
+(S) Clumps
+	https://modrinth.com/mod/clumps
 (S) FerriteCore
 	https://modrinth.com/mod/ferrite-core
 (S) ModernFix
@@ -62,6 +66,8 @@ Gameplay
 	https://modrinth.com/mod/adorn
 (S) Advancement Count
 	https://modrinth.com/datapack/advancement-count
+(S) Alex's Caves
+	https://modrinth.com/mod/alexs-caves
 (S) Artifacts
 	https://modrinth.com/mod/artifacts
 (S) Better Combat
@@ -88,6 +94,10 @@ Gameplay
 	https://modrinth.com/mod/easy-magic
 (S) Elytra Slot
 	https://modrinth.com/mod/elytra-slot
+(S) Explorations
+	https://modrinth.com/mod/explorations
+(S) Explorer's Compass
+	https://modrinth.com/mod/explorers-compass
 (S) Farmer's Delight
 	https://modrinth.com/mod/farmers-delight
 (S) Fishermen's Trap
@@ -100,6 +110,12 @@ Gameplay
 	https://modrinth.com/mod/immersive-melodies
 (S) Infinity With Mending
 	https://modrinth.com/mod/infinity-with-mending
+(S) Joy of Painting
+	https://modrinth.com/mod/joy-of-painting
+(S) Just Another Structure Pack
+	https://modrinth.com/datapack/just-another-structure-pack
+(S) Kobolds
+	https://modrinth.com/mod/kobolds
 (S) Lightman's Currency
 	https://www.curseforge.com/minecraft/mc-mods/lightmans-currency
 (S) Nature's Compass
@@ -110,6 +126,12 @@ Gameplay
 	https://modrinth.com/mod/plushie
 (S) Rex's Additional Structures
 	https://modrinth.com/mod/additional-structures
+(S) Simple Voice Chat
+	https://modrinth.com/plugin/simple-voice-chat/versions
+(S) The Aether
+	https://modrinth.com/mod/aether
+(S) The Twilight Forest
+	https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
 (S) Tom's Simple Storage
 	https://modrinth.com/mod/toms-storage
 (S) Transmog
@@ -122,16 +144,10 @@ Gameplay
 	https://modrinth.com/datapack/ultris/version/5.6.9b+mod
 (S) Vivecraft
 	https://modrinth.com/mod/vivecraft
-(S) Simple Voice Chat
-	https://modrinth.com/plugin/simple-voice-chat/versions
-(S) Stack Refill
-	https://modrinth.com/mod/stack-refill
+(S) Voidscape
+	https://www.curseforge.com/minecraft/mc-mods/voidscape
 (S) Waystones
 	https://modrinth.com/mod/waystones
-(S) Joy of Painting
-	https://modrinth.com/mod/joy-of-painting
-(S) Just Another Structure Pack
-	https://modrinth.com/datapack/just-another-structure-pack
 (C) Reacharound
 	https://modrinth.com/mod/reacharound
 
@@ -151,10 +167,14 @@ Quality of Life
 	https://modrinth.com/mod/polymorph
 (S) RightClickHarvest
 	https://modrinth.com/mod/rightclickharvest
+(S) Showcase Item
+	https://www.curseforge.com/minecraft/mc-mods/showcase-item
 (S) Superflat World No Slimes
 	https://modrinth.com/mod/superflat-world-no-slimes
 (S) Visual Workbench
 	https://modrinth.com/mod/visual-workbench
+(C) Better Third Person
+	https://modrinth.com/mod/better-third-person
 (C) Boat Item View
 	https://modrinth.com/mod/boat-item-view
 (C) Controlling
@@ -169,10 +189,16 @@ Quality of Life
 	https://modrinth.com/mod/map-tooltip
 (C) Model Gap Fix
 	https://modrinth.com/mod/modelfix
+(C) Mouse Tweaks
+	https://modrinth.com/mod/mouse-tweaks
 (C) Notes
 	https://modrinth.com/mod/notes
 (C) Pickup Notifier
 	https://modrinth.com/mod/pick-up-notifier
+(C) Shulker Box Tooltip
+	https://modrinth.com/mod/shulkerboxtooltip
+(S) Stack Refill
+	https://modrinth.com/mod/stack-refill
 (C) Trade Uses
 	https://modrinth.com/mod/trade-uses/versions
 (C) Xaero's Minimap (Fair-Play)

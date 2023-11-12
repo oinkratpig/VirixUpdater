@@ -1,9 +1,21 @@
-v5.0 -> 5.1
+v5.1 -> v6.0
 =============================
 
 Added
-	- (S) Dynmap
-	- (C) Xaero's Minimap
-
+	- (S) Alex's Caves
+	- (S) Citadel
+	- (S) Clumps
+	- (S) Explorations
+	- (S) Explorer's Compass
+	- (S) Kobolds
+	- (S) Showcase Item
+	- (S) The Aether
+	- (S) The Twilight Forest
+	- (S) Voidscape
+	- (C) Better Third Person
+	- (C) FancyMenu
+	- (C) Mouse Tweaks
+	- (C) Shulker Box Tooltip
+	
 Removed
-	- Xaero's Minimap (Fair-Play)
+	- (C) Show Me What You Got
