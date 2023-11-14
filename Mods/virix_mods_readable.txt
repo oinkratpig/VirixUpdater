@@ -36,6 +36,8 @@ Dependencies
 	https://modrinth.com/mod/supermartijn642s-config-lib
 (S) supermartijn642corelib
 	https://modrinth.com/mod/supermartijn642s-core-lib
+(S) Truly Modular: Modular Item API
+	https://modrinth.com/mod/modular-item-api
 (C) MidnightLib
 	https://modrinth.com/mod/midnightlib
 
@@ -140,6 +142,8 @@ Gameplay
 	https://modrinth.com/mod/trash-cans
 (S) Traveler's Backpack
 	https://modrinth.com/mod/travelersbackpack
+(S) Truly Modular: Arsenal
+	https://modrinth.com/mod/truly-modular-arsenal
 (S) Ultris: Boss Expansion
 	https://modrinth.com/datapack/ultris/version/5.6.9b+mod
 (S) Vivecraft
@@ -274,6 +278,8 @@ Visual
 	https://modrinth.com/mod/particle-rain
 (C) Show Me What You Got
 	https://modrinth.com/mod/show-me-what-you-got
+(C) Smooth Swapping
+	https://modrinth.com/mod/smooth-swapping/versions
 (C) Visuality
 	https://modrinth.com/mod/visuality
 (C) Wakes

@@ -1,21 +1,9 @@
-v5.1 -> v6.0
+v6.0 -> v7.0
 =============================
 
+Truly Modular is usable now but buggy.
+
 Added
-	- (S) Alex's Caves
-	- (S) Citadel
-	- (S) Clumps
-	- (S) Explorations
-	- (S) Explorer's Compass
-	- (S) Kobolds
-	- (S) Showcase Item
-	- (S) The Aether
-	- (S) The Twilight Forest
-	- (S) Voidscape
-	- (C) Better Third Person
-	- (C) FancyMenu
-	- (C) Mouse Tweaks
-	- (C) Shulker Box Tooltip
-	
-Removed
-	- (C) Show Me What You Got
+	- (S) Truly Modular: Modular Item API
+	- (S) Truly Modular: Aresenal
+	- (C) Smooth Swapping
