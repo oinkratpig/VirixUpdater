@@ -226,8 +226,6 @@ Visual
 	https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
 (C) FancyMenu
 	https://modrinth.com/mod/fancymenu
-(C) Fog Looks Modern Now
-	https://modrinth.com/mod/fog-looks-modern-now
 (C) Nimble
 	https://modrinth.com/mod/nimble
 (C) Not Enough Animations
@@ -286,8 +284,6 @@ Visual
 	https://modrinth.com/mod/cave-dust
 (C) Chat Animation
 	https://modrinth.com/mod/chatanimation
-(C) Color Me Outlines
-	https://modrinth.com/mod/color-me-outlines
 (C) No Night Vision Flickering
 	https://modrinth.com/mod/no-night-vision-flickering
 (C) NoRecipeBook
@@ -315,22 +311,24 @@ Audio
 Load order:
 (Descending - 1 is loaded last)
 (Same order as it should be in the resouce packs screen)
-(1) PickupSound
+(1) Virix
+	Just replaced basic textures for the main menu.
+(2) PickupSound
 	Only contains the pickup sound from Parallax Sounds.
 	https://modrinth.com/resourcepack/parallax-sounds
 	All audio in this resource pack is stereo, meaning it does not work as intended.
 	The pickup sound is too good to do without, though.
-(2) Omori Music Replacement
+(3) Omori Music Replacement
 	https://www.curseforge.com/minecraft/texture-packs/omori-music-pack
 	Like Parallax Sounds, all audio was mono.
 	There was a small enough amount of audio that converting was reasonable.
-(3) Enhanced Audio
+(4) Enhanced Audio
 	https://www.curseforge.com/minecraft/texture-packs/enhanced-audio
-(4) Skyrim Soundpack
+(5) Skyrim Soundpack
 	https://www.planetminecraft.com/texture-pack/soundpack-skyrim-175/
 	Iconic Skyrim sounds take away from immersion so this is loaded before Enhanced Audio.
 	Some of the sounds are so amazing though it's worth occasional immersion breaks.
-(5) JICKLUS
+(6) JICKLUS
 	https://modrinth.com/resourcepack/jicklus
 
 ==============================
