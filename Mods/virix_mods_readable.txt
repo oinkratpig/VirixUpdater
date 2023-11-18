@@ -70,6 +70,8 @@ Gameplay
 	https://modrinth.com/datapack/advancement-count
 (S) Alex's Caves
 	https://modrinth.com/mod/alexs-caves
+(S) Anvil Never Too Expensive
+	https://modrinth.com/mod/ante
 (S) Artifacts
 	https://modrinth.com/mod/artifacts
 (S) Better Combat
@@ -144,16 +146,12 @@ Gameplay
 	https://modrinth.com/mod/travelersbackpack
 (S) Truly Modular: Arsenal
 	https://modrinth.com/mod/truly-modular-arsenal
-(S) Ultris: Boss Expansion
-	https://modrinth.com/datapack/ultris/version/5.6.9b+mod
 (S) Vivecraft
 	https://modrinth.com/mod/vivecraft
 (S) Voidscape
 	https://www.curseforge.com/minecraft/mc-mods/voidscape
 (S) Waystones
 	https://modrinth.com/mod/waystones
-(C) Reacharound
-	https://modrinth.com/mod/reacharound
 
 Quality of Life
 ---------------
@@ -165,28 +163,34 @@ Quality of Life
 	https://modrinth.com/mod/fallingtree
 (S) Grass Seeds
 	https://modrinth.com/mod/grass-seeds
-(S) JourneyMap
-	https://modrinth.com/mod/journeymap
 (S) Polymorph
 	https://modrinth.com/mod/polymorph
 (S) RightClickHarvest
 	https://modrinth.com/mod/rightclickharvest
 (S) Showcase Item
 	https://www.curseforge.com/minecraft/mc-mods/showcase-item
+(S) Stack Refill
+	https://modrinth.com/mod/stack-refill
 (S) Superflat World No Slimes
 	https://modrinth.com/mod/superflat-world-no-slimes
 (S) Visual Workbench
 	https://modrinth.com/mod/visual-workbench
+(C) Auto Elytra Flight
+	https://modrinth.com/mod/auto-elytra-flight
 (C) Better Third Person
 	https://modrinth.com/mod/better-third-person
 (C) Boat Item View
 	https://modrinth.com/mod/boat-item-view
 (C) Controlling
 	https://modrinth.com/mod/controlling
+(C) Elytra Utilities
+	https://modrinth.com/mod/elytra-utilities
 (C) EMI
 	https://modrinth.com/mod/emi
 (C) EMI Trades
 	https://modrinth.com/mod/emitrades
+(C) Game Menu Mod Option
+	https://modrinth.com/mod/gamemenumodoption
 (C) Just Zoom
 	https://modrinth.com/mod/just-zoom/version/1.0.2-1.20.1-forge
 (C) Map Tooltip
@@ -195,17 +199,21 @@ Quality of Life
 	https://modrinth.com/mod/modelfix
 (C) Mouse Tweaks
 	https://modrinth.com/mod/mouse-tweaks
+(C) No Double Tap Sprint
+	https://modrinth.com/mod/double-tap
 (C) Notes
 	https://modrinth.com/mod/notes
 (C) Pickup Notifier
 	https://modrinth.com/mod/pick-up-notifier
+(C) Pretty Beaches
+	https://modrinth.com/mod/pretty-beaches
+(C) Reacharound
+	https://modrinth.com/mod/reacharound
 (C) Shulker Box Tooltip
 	https://modrinth.com/mod/shulkerboxtooltip
-(S) Stack Refill
-	https://modrinth.com/mod/stack-refill
 (C) Trade Uses
 	https://modrinth.com/mod/trade-uses/versions
-(C) Xaero's Minimap (Fair-Play)
+(C) Xaero's Minimap
 	https://modrinth.com/mod/xaeros-minimap-fair
 (C) Xaero's World Map
 	https://modrinth.com/mod/xaeros-world-map
@@ -214,10 +222,14 @@ Visual
 ---------------
 (C) 3D Skin Layers
 	https://modrinth.com/mod/3dskinlayers
-(C) Distant Horizons
-	https://gitlab.com/jeseibel/minecraft-lod-mod
 (C) Falling Leaves
 	https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
+(C) FancyMenu
+	https://modrinth.com/mod/fancymenu
+(C) Fog Looks Modern Now
+	https://modrinth.com/mod/fog-looks-modern-now
+(C) Nimble
+	https://modrinth.com/mod/nimble
 (C) Not Enough Animations
 	https://modrinth.com/mod/not-enough-animations
 (C) Oculus
@@ -231,6 +243,8 @@ Audio
 ---------------
 (C) AmbientSounds
 	https://modrinth.com/mod/ambientsounds
+(C) Endless Music
+	https://modrinth.com/mod/endless-music/versions
 (C) Extreme Sound Muffler
 	https://modrinth.com/mod/extreme_sound_muffler
 (C) Sound Physics Remastered
@@ -261,6 +275,8 @@ Quality of Life
 	https://modrinth.com/mod/borderless-mining
 (C) ClickThrough
 	https://modrinth.com/mod/clickthrough
+(C) No Jump Delay
+	https://modrinth.com/mod/no-jump-delay
 (C) Visible Toggle Sprint
 	https://modrinth.com/mod/visible-toggle-sprint
 	
@@ -270,6 +286,8 @@ Visual
 	https://modrinth.com/mod/cave-dust
 (C) Chat Animation
 	https://modrinth.com/mod/chatanimation
+(C) Color Me Outlines
+	https://modrinth.com/mod/color-me-outlines
 (C) No Night Vision Flickering
 	https://modrinth.com/mod/no-night-vision-flickering
 (C) NoRecipeBook

@@ -1,9 +1,21 @@
-v6.0 -> v7.0
+v7.0 -> v8.0
 =============================
 
-Truly Modular is usable now but buggy.
-
 Added
-	- (S) Truly Modular: Modular Item API
-	- (S) Truly Modular: Aresenal
-	- (C) Smooth Swapping
+	- (S) Pretty Beaches
+	- (S) Anvil Never Too Expensive
+	- (S) WebDisplays
+	- (C) Nimble
+	- (C) No Jump Delay
+	- (C) Elytra Utilities
+	- (C) Auto Elytra Flight
+	- (C) Fog Looks Modern Now
+	- (C) No Double Tap Sprint
+	- (C) Color Me Outlines
+	- (C) Endless Music
+	- (C) MCEF
+	- (C) Game Menu Mod Option
+
+Removed
+	- (S) Truly Modular
+	- (C) Distant Horizons
